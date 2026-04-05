@@ -30,9 +30,23 @@
 | Multispectral (drone) | ResNet50 (5 каналов) | ...     | ...                 | ...   |
 
 ![Training History](results/training_history.png)
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png) 
+
+## Структура репозитория
+plant-state-classification-drone-multispectral/
+├── README.md
+├── LICENSE                 
+├── requirements.txt
+├── results          
+├── .gitignore
+├── src
+├── Jupyter
 
 ### Инструкция по запуску
 
+1. Открыть ноутбук в Google Colab https://colab.research.google.com/drive/1j5lcRSzQ01Yg7LX9rhcZHjSOiRUUfBST?usp=sharing
 
-https://colab.research.google.com/drive/1j5lcRSzQ01Yg7LX9rhcZHjSOiRUUfBST?usp=sharing
+2. Установить зависимости: `pip install -r requirements.txt`
+
+3. Запустить все ячейки по порядку
+
