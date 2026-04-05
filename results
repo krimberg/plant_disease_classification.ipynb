@@ -5,5 +5,5 @@
 | Accuracy (Validation)    | 98.7%        |
 | F1-score (weighted)      | 98.6%        |
 
-![Training History](results/training_history.png)
-![Confusion Matrix](results/confusion_matrix.png)
+![Training History](training_history.png)
+![Confusion Matrix](confusion_matrix.png)
